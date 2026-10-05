@@ -1,18 +1,5 @@
 
 
-
-local key = "jamez"
-
-
-if input == key then
-    print("Correct key!")
-    -- run your code here
-else
-    print("Wrong key!")
-end
-
-
-
 repeat
 	task["wait"]()
 until game:IsLoaded()
